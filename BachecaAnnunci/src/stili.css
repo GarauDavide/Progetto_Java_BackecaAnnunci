@@ -1,0 +1,37 @@
+#Finestra{
+    -fx-background-color : linear-gradient(#8a8a8a 0%, #6b6a6b 45%, #343534 80%, #262626 100%) ;/*DODGERBLUE;*//*DEEPSKYBLUE;*/
+}
+#titoloVBoxSecondaria{
+    -fx-text-fill : gold;
+    -fx-font-weight : bold;
+}
+#titoloBachecaAnnunci, #titoloAggiungicatagoria{
+    -fx-text-fill : gold;
+    -fx-font-weight : bold;
+}
+#titoloPubblica, #titoloRicerca, #labelNomeUtente{
+    -fx-text-fill : white;
+    -fx-font-weight : bold;
+}
+#labelTipologia, #labelTipologiaRicerca, #labelCategoria, #labelCategoriaRicerca, #labelCreaNuovaCategoria{
+    -fx-text-fill : white;
+}
+.chart-title{
+  -fx-text-fill: white;
+  -fx-font-weight : bold;
+}
+.chart-pie-label {
+    -fx-fill: white;
+} 
+.button{
+    -fx-background-color: azure;
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-padding: 3 30 3 30;
+    -fx-text-fill: darkslategray;
+    -fx-font-weight: bold;
+}
+.separator{
+    -fx-background-color: #e79423;
+    -fx-background-radius: 2;
+}
